@@ -1,0 +1,41 @@
+/* Themed colors */
+:root {
+    --primary-accent: #161616;
+    --navbar-border-top: #20616d;
+    --button-border: #2a7d8c;
+    --link-focus: #267280;
+    --form-shadow: rgba(56, 167, 187, 0.6);
+    --pagination-bg: #a7dbe5;
+    --link-hover-bg: #2c8494;
+    --navbar-focus: #80cbd9;
+  }
+
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}
+
+/* Aumento la especificad del selector para override del theme */
+.home-carousel .dark-mask {
+    /* background: none; */
+    opacity: 0.5;
+    background-color: #161616;
+}
+
+.jumbotron {
+    background: url('../img/photogrid.jpg') center center repeat;
+}
+
+.default-single-page img {
+    width: 100%;
+    margin: 2% 0% 3% 0%;
+}
