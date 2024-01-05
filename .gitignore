@@ -20,6 +20,3 @@ notes/
 !.vscode/extensions.json
 # !.vscode/launch.json
 !.vscode/settings.json
-
-# Themes (hasta que se meta como submodulo)
-themes/
