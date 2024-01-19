@@ -38,7 +38,7 @@ Aquí deixámosche algunhas das vantaxes de ser persoas socias:
 
 - Estarás **en contacto** co resto de asociacións ciclistas galegas.
 
-## Canto costa?
+## Canto custa?
 
 Actualmente a nosa cota de socia será domiciliada nunha **COTA ÚNICA ANUAL de 15€ por persoa**, que como mencionamos, inclúe formar parte de Composcleta e ConBici así como de estar cubertos polo seguro de Responsabilidade Civil.
 
