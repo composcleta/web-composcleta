@@ -24,9 +24,9 @@ Por tanto, somos usuarias da bici como ti. Composcleta e ConBici contan cun gran
 
 ## Paga a pena asociarse?
 
-Aquí deixámosche algunhas das vantaxes de ser persoas socias:
+Aquí deixámosche algunhas das vantaxes de ser persoa socias:
 
-- Estarás cuberta por un **seguro de Responsabilidade Civil** que ten subscrito Composcleta.
+- Estarás cuberta por un **seguro de Responsabilidade Civil** que ten subscrito Composcleta por medio de Conbici.
 
 - Coñecerás e compartirás **experiencias e inquedanzas** con outras persoas que empregan a bicicleta como medio de mobilidade sustentable na nosa cidade.
 

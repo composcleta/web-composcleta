@@ -7,10 +7,13 @@ theme = "hugo-universal-theme"
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "gl"
+defaultContentLanguageInSubdir = false
+
 [languages]
   [languages.en]
     # contentDir = 'content/english'
     languageName = 'English'
+    languageCode = 'en-US'
     disabled = true
     weight = 30
   [languages.gl]
@@ -20,7 +23,8 @@ defaultContentLanguage = "gl"
   [languages.es]
     # contentDir = 'content/french'
     languageName = 'Español'
-    disabled = true
+    languageCode = 'es-ES'
+    disabled = false
     weight = 20
 
 # Enable comments by entering your Disqus shortname
@@ -209,3 +213,6 @@ summaryLength = 70
   category = "categories"
   tag = "tags"
   author = "authors"
+
+[permalinks]
+    # blog = "/blog/:year/:month/:day/:filename/"
