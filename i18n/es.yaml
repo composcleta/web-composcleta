@@ -120,32 +120,31 @@
 
 # HOME PAGE
 - id: id_testimonials
-  translation: Persoas Socias e Xunta Directiva
+  translation: Personas Socias y Junta Directiva
 
 - id: id_testimonials_subtitle
-  translation: Actualmente somos ao redor dun centenar de persoas socias. Colaboramos voluntariamente nas asambleas e actividades que se desenvolven na Asociación Cívica Composcleta.
+  translation: Actualmente somos alrededor de un centenar de personas socias. Colaboramos voluntariamente en las asambleas y actividades que se desarrollan en la Asociación Cívica Composcleta.
 
 - id: id_see_more.title
-  translation: Pertence á nosa asociación e benefíciache de todas as súas vantaxes!
+  translation: Pertenece a nuestra asociación y benefíciate de todas sus ventajas!
 
 - id: id_see_more.subtitle
-  translation: Estarás cuberta por un seguro de Accidentes que ten subscrito Composcleta, coñecerás e compartirás experiencias, participarás nas nosas actividades e estarás en contacto co resto de persoas socias entre outras moitas cousas. Anímate!
+  translation: Estarás cubierta por un seguro de responsabilidad Civil que ha suscrito Composcleta, conocerás y compartirás experiencias, participarás en nuestras actividades y estarás en contacto con el resto de personas socias entre otras muchas cosas. Anímate!
 
 - id: id_see_more.link_url
-  translation: Infórmate! Faiche Persoa Socia!
+  translation: Infórmate! Hazte Persona Socia!
 
 - id: id_recent_posts.title
-  translation: As nosas últimas noticias e actividades
+  translation: Nuestras últimas noticias y actividades
 
 - id: id_recent_posts.subtitle
-  translation: Descúbreas
+  translation: Descúbrelas
 
 - id: id_clients.title
-  translation: Sobre nós
+  translation: Sobre nosotros
 
 - id: id_clients.subtitle
-  translation: Somos asociación membro de ConBici a nivel nacional e ademais, colaboramos con todas estas asociacións a nivel autonómico formando a Coordinadora Galega da Bicicleta.
-# translation: Somos asociación miembro de ConBici a nivel nacional y además, colaboramos con todas estas asociaciones a nivel autonómico formando la Coordinadora Gallega de la Bicicleta.
+  translation: Somos asociación miembra de ConBici a nivel nacional e además, colaboramos con todas estas asociaciones a nivel autonómico formando la Coordinadora Galega da Bicicleta.
 
 - id: id_features_path
   translation: features_es
