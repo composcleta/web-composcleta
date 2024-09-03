@@ -7,34 +7,34 @@ translationKey = 'enroll'
 
 ## Asociarse a nosotros
 
-A Asociación Cívica Composcleta é una **asociación sen ánimo de lucro**, e para ser socia, cómpre que che sintas alineada cos nosos dous principáis fins:
+La Asociación Cívica Composcleta es una *asociación sin ánimo de lucro**, y para ser socia, hace falta que te sientas alineada con nuestros dos principáis fines:
 
-- **Promover a bicicleta** como medio de transporte urbano.
-- **Realizar actividades** promocionáis, divulgativas, formaticas, informativas e lúdicas sobre mobilidade sostible.
+- *Promover la bicicleta** como medio de transporte urbano.
+- *Realizar actividades** promocionáis, divulgativas, formaticas, informativas y lúdicas sobre movilidad sostenible.
 
-Actualmente somos ao redor dun centenar de persoas socias de Compostela e arredores. Temos socias que colaboran moi activamente en actividades de voluntariado pero tamén temos un perfil de persoa socia, que comparte as ideas da asociación, e que sinxelamente quere disfrutar dos servicios e beneficios de asociarse.
+Actualmente somos alrededor de un centenar de personas socias de Compostela y aledaños. Tenemos socias que colaboran muy activamente en actividades de voluntariado pero también tenemos un perfil de persona socia, que comparte las ideas de la asociación, y que sencillamente quiere disfrutar de los servicios y beneficios de asociarse.
 
-Ademáis, por asociarte a Composcleta formarás parte de [ConBici][1], que é unha asociación de ámbito nacional moito maior. ConBici es la principal coordinadora de asociaciones ciclistas en España, con la participación de 72 entidades en todo el país. Trabajamos en colaboración para fomentar el uso de la bicicleta como una actividad habitual en los desplazamientos diarios. Nuestro enfoque se centra en influir en el ámbito político y llevar a cabo campañas de sensibilización, con el objetivo de establecer un marco legal favorable que promueva el aumento de ciclistas en nuestro país.
+Además, por asociarte la Composcleta formarás parte de [ConBici][1], que es una asociación de ámbito nacional mucho mayor. ConBici eres lana principal coordinadora de asociaciones ciclistas en España, con lana participación de 72 entidades en todo él país. Trabajamos en colaboración para fomentar él uso de lana bicicleta como una actividad habitual en los desplazamientos diarios. Nuestro enfoque se centra en influir en él ámbito político y llevar a cabo campañas de sensibilización, con él objetivo de establecer un marco legal favorable que promueva él aumento de ciclistas en nuestro país.
 
-Por tanto, somos usuarias de la bici como tú. Composcleta y ConBici cuentan con un gran capital humano de personas que conocemos las dificultades con las que nos encontramos a diario todas las personas que vamos en bicicleta. Queremos defender nuestros derechos y ayudar ofreciendo servicios útiles y en condiciones que nos den ventajas.
+Por tanto, somos usuarias de la bici como tú. Composcleta y ConBici cuentan con un grano capital humano de personas que conocemos lanas dificultades con lanas que nos encontramos a diario todas lanas personas que vamos en bicicleta. Queremos defender nuestros derechos y ayudar ofreciendo servicios útiles y en condiciones que en los den ventajas.
 
 ![Asóciate a Composcleata](/img/enroll/asociate-composcleta.jpg)
 
-## Paga a pena asociarse?
+## Merece la pena asociarse?
 
-PrecisamenteMediante esta coordinadora, tramitamos os seguros de Responabilidade Civil Individual, asistimos ás actividades, congresos e asambleas de ConBici, incluidos os seus grupos de traballo. Ademais disto, asociándote...
+Aquí te dejamos algunas de las ventajas de ser persona socia:
 
-- Estarás cuberta por un **seguro de Responsabilidade Civil** que ten subscrito Composcleta.
+- Estarás cubierta por un *seguro de Responsabilidad Civil** que ha suscrito Composcleta por medio de Conbici.
 
-- Coñecerás e compartirás **experiencias e inquedanzas** con outras persoas que empregan a bicicleta como medio de mobilidade sustentable na nosa cidade.
+- Conocerás y compartirás *experiencias e inquietudes** con otras personas que emplean la bicicleta como medio de movilidad sostenible en nuestra ciudad.
 
-- Participarás de **actividades lúdicas** que organicemos como; Salidas en Bicicleta, Viajes de Cicloturismo, Formaciones...
+- Participarás de *actividades lúdicas** que organicemos cómo; Salidas en bicicleta, Viajes de Cicloturismo, Formaciones...
 
-- **Realizarás presión nas institucións** locais na procura dunha cidade máis humana e sostible.
+- *Realizarás presión en las instituciones** locales en la búsqueda de una ciudad más humana y sostenible.
 
-- Recibirás **asesoramiento** por parte de una comunidad amplísima de usarias de la bicicleta (sobre para un uso de movilidad urbana).
+- Recibirás **asesoramiento** por parte de una comunidad amplísima de usarias de la bicicleta (sobre todo para un uso de movilidad urbana).
 
-- Estarás **en contacto** co resto de asociacións ciclistas galegas.
+- Estarás *en contacto** con el resto de asociaciones ciclistas gallegas.
 
 ## Cuánto cuesta?
 
@@ -44,13 +44,13 @@ Las actividades lúdicas realizadas a lo largo del año, serán abonadas adicion
 
 ## Qué tengo que hacer ahora para asociarme?
 
-**Para asociarte** á Asociación Cívica Composcleta **envíanos unha mensaxe** a `bicis@composcleta.org` cos seguientes datos:
+**Para asociarte** a la Asociación Cívica Composcleta **envíanos un mensaje** a `bicis@composcleta.org` con los siguientes datos:
 
-- Teu nome e apelidos
-- DNI ou Tarxeta de Residencia
-- O teu número de teléfono.
+- Tu nombre y apellidos
+- DNI o Tarjeta de Residencia
+- Tu número de teléfono.
 
-Sinxelo, non? Agardámoste!
+Sencillo, no? Te esperamos!
 
 ![Actividades persoas socias de Composcleata](/img/enroll/actividades-socias.jpg)
 
