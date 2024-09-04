@@ -2,9 +2,10 @@
 title = "Outono en bici. Un roteiro de dous días de cicloturismo por Portugal"
 date = "2023-10-16T23:00:20+02:00"
 tags = ["lecer", "pedaladas", "cicloturismo"]
-categories = ["lecer", "cicloturismo"]
+categories = ["cicloturismo"]
 banner = "./hostel.jpg"
 authors = ["Helike"]
+years = ["2023"]
 +++
 
 🍁 Outono en bici! Composcleta organizó unha viaxe cicloturista de 2 días con pernocta por Galicia e Portugal os pasados 14 e 15 de outubro.

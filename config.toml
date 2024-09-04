@@ -213,6 +213,7 @@ summaryLength = 70
   category = "categories"
   tag = "tags"
   author = "authors"
+  year = "years"
 
 [permalinks]
     # blog = "/blog/:year/:month/:day/:filename/"
