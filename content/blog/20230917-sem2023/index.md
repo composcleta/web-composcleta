@@ -5,6 +5,7 @@ tags = ["promoción", "eventos", "pedaladas"]
 categories = ["SEM"]
 banner = "./sem2023.jpg"
 authors = ["Helike"]
+years = ["2023"]
 +++
 
 Un ano máis, na semana do 11 ao 17 de setembro é a **Semana Europea da Mobilidade** 2023 (#sem2023 #mobilityWeek).

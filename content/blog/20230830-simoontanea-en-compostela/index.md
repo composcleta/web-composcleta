@@ -5,6 +5,7 @@ tags = ["lecer", "nocturnas", "pedaladas"]
 categories = ["lecer"]
 banner = "./simmontanea-composcleta.jpg"
 authors = ["Helike"]
+years = ["2023"]
 +++
 
 Simoontanea é unha chamada para pedalear baixo a última lúa chea de verán, nunha quedada informal e entre amigos que terá lugar de forma simultánea en diferentes puntos da xeografía.
