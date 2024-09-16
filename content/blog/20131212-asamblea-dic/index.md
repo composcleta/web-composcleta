@@ -1,21 +1,16 @@
 +++
-title = "Asamblea de la asociación Diciembre 2013"
-date = "2013-12-12T20:00:20+02:00"
+title = "Reunión de  membros da asociación Marzo 2024"
+date = "2014-03-06T20:00:20+02:00"
 tags = ["asamblea"]
 categories = ["mobilidade"]
 banner = "asamblea-general.jpg"
 authors = ["Composcleta"]
-years = ["2013"]
+years = ["2014"]
 +++
 
-Tratáronse os seguintes puntos:
+Nos reunimos para discutir los siguientes temas:
 
-- Cota da asociación
-- Actualización da listaxe de socios e fomulario de solicitude de ingreso
-- Oferta de servizos aos socios
-- Páxina Web
-- Actividades de promoción: plans para os próximos meses
-- Propostas para o concello
-- Rogos e preguntas
+- Propuesta de modificación de la señalización del Campus de la Vida de la USC para que sea vía preferente ciclista.
+- Ideas para participar en el Sustainable Urban Mobility Campaign
 
 ![Todos somos necesarios](asamblea-general.jpg)
