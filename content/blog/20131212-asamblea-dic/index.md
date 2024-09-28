@@ -1,5 +1,5 @@
 +++
-title = "Reunión de  membros da asociación Marzo 2024"
+title = "Asamblea da asociación Decembro 2014"
 date = "2014-03-06T20:00:20+02:00"
 tags = ["asamblea"]
 categories = ["mobilidade"]
