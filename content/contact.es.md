@@ -1,10 +1,28 @@
 +++
-title = "Coctacto ES"
+title = "Coctacto"
 id = "contact"
 +++
 
-# We are here to help you
+## Hablamos?
 
-TODO: Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Se perteneces a la prensa o cualquier otra entidad, por favor contacta en la dirección `bicis@composcleta.org`. Te atenderemos tan pronto como sea posible.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+![Falamos?](/img/contact/radio-composcleta.jpg)
+
+## Secretariado. Preguntas sobre la asociación y cómo asociarse
+
+Quieres asociarte y tienes dudas? Puedes realizarnos cualquier pregunta sobre esto a la dirección `secretariado@composcleta.org`.
+
+Te atenderemos lo antes que nos sea posible. Tiene en cuenta que no tenemos personal dedicado la esta gestión y que depende de la carga de trabajo que tengan las personas voluntarias que hacen esta actividad.
+
+## Quieres contarnos algo o participar de algún grupo de trabajo? Tienes alguna duda respecto a alguna actividad?
+
+Para esto puedes contactar en la dirección `eventos@composcleta.org`. También puedes hacerlo por nuestras redes sociáis.
+
+- [Intagram](https://www.instagram.com/composcleta/)
+- [Facebook](https://www.facebook.com/composcleta)
+- ['X'](https://twitter.com/composcleta)
+
+Tenemos un canal de difusión en [Telegram](https://t.me/composcleta/) donde anunciaremos actividades y las noticias principales, pero actualmente no está disponible esta plataforma para el contacto con nosotros.
+
+También tenemos un grupo de Whatsapp exclusivo para socios. Si ya eres persona socia y quieres participar de él, escribe un email a `secretariado@composcleta.org`
