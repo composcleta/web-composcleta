@@ -1,5 +1,5 @@
 +++
-title = "Enroll"
+title = "Asociarse"
 description = "Cosas"
 keywords = ["Activity"]
 translationKey = 'enroll'
@@ -9,8 +9,8 @@ translationKey = 'enroll'
 
 La Asociación Cívica Composcleta es una *asociación sin ánimo de lucro**, y para ser socia, hace falta que te sientas alineada con nuestros dos principáis fines:
 
-- *Promover la bicicleta** como medio de transporte urbano.
-- *Realizar actividades** promocionáis, divulgativas, formaticas, informativas y lúdicas sobre movilidad sostenible.
+- **Promover la bicicleta** como medio de transporte urbano.
+- **Realizar actividades** promocionáis, divulgativas, formaticas, informativas y lúdicas sobre movilidad sostenible.
 
 Actualmente somos alrededor de un centenar de personas socias de Compostela y aledaños. Tenemos socias que colaboran muy activamente en actividades de voluntariado pero también tenemos un perfil de persona socia, que comparte las ideas de la asociación, y que sencillamente quiere disfrutar de los servicios y beneficios de asociarse.
 

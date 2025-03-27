@@ -146,6 +146,11 @@ summaryLength = 70
     url        = "/enroll"
     weight     = 5
 
+[[menu.main]]
+    name       = "proposals"
+    url        = "https://proxectos.composcleta.org"
+    weight     = 10
+
 # [[menu.main]]
 #     name = "Activity"
 #     url  = "activity"

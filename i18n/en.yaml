@@ -4,6 +4,12 @@
 - id: activity
   translation: "Activity"
 
+- id: projects
+  translation: "Projects"
+
+- id: proposals
+  translation: "Propuestas"
+
 - id: templateBy
   translation: "Template by"
 
