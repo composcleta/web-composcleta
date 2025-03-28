@@ -2,7 +2,7 @@
 title = "Taller de bicis en la Almáciga"
 date = "2024-12-11T12:15:20+02:00"
 tags = ["obradoiro"]
-categories = ["formacion"]
+categories = ["formación"]
 banner = "actividade-formativa-almaciga-02.es.jpg"
 authors = ["Helike"]
 years = ["2024"]
