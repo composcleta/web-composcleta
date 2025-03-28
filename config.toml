@@ -222,13 +222,13 @@ summaryLength = 70
     weight = 8
     name = "Galego"
     url = "/"
-    pre = "<img src='img/flags/galicia.png' alt='Gallego' style='height:15px;'>"
+    pre = "<img src='/img/flags/galicia.png' alt='Gallego' style='height:15px;'>"
 
 [[menu.topbar]]
     weight = 9
     name = "Español"
     url = "/es/"
-    pre = "<img src='img/flags/espana.png' alt='Español' style='height:15px;'>"
+    pre = "<img src='/img/flags/espana.png' alt='Español' style='height:15px;'>"
 
 
 # Enable and disable widgets for the right sidebar

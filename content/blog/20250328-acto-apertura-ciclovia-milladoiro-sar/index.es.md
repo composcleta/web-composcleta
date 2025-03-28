@@ -5,7 +5,7 @@ tags = ["movilidad", "eventos", "pedalada", "ciclovía-milladoiro"]
 categories = ["movilidad"]
 banner = "apertura-ciclovia-milladoiro-fb.es.png"
 authors = ["Helike"]
-years = ["2024"]
+years = ["2025"]
 +++
 
 Este sábado se celebrará junto las Piscinas de Sar, un acto institucional en el que se abrirá parte de la Ciclovía que conectará (Santiago - San Lázaro - Chus) con el Milladoiro. El tramo en cuestión recorre por las Brañas del Sar y Estación Intermodal en un hito para la movilidad sostenible en Santiago de Compostela. Con esta importante inversión en infraestructuras, fruto de los Fondos NextGeneration de la UE y la iniciativa de por en marcha este proyecto por parte de la Xunta de Galicia, **se alcanzará un eje seguro para la movilidad en bici que en el futuro próximo se vertebrará con nuevas obras en otros puntos de la ciudad**.
