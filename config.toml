@@ -180,32 +180,55 @@ summaryLength = 70
     weight = 1
     name = "Instagram"
     url = "https://www.instagram.com/composcleta/"
-    pre = "<i class='fab fa-2x fa-instagram'></i>"
+    pre = "<i class='fab fa-instagram'></i>"
 
 [[menu.topbar]]
     weight = 2
     name = "Telegram"
     url = "https://t.me/composcleta/"
-    pre = "<i class='fab fa-2x fa-telegram'></i>"
+    pre = "<i class='fab fa-telegram'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Facebook"
     url = "https://www.facebook.com/composcleta"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
+    pre = "<i class='fab fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "X"
     url = "https://twitter.com/composcleta"
-    pre = "<i class='fab fa-2x fa-x-twitter'></i>"
+    pre = "<i class='fab fa-x-twitter'></i>"
 
 [[menu.topbar]]
     weight = 5
-    name = "Email"
-    url = "mailto:bicis@composcleta.org"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
+    name = "Mastodon"
+    url = "https://mastodon.social/@composcleta"
+    pre = "<i class='fab fa-mastodon'></i>"
 
+[[menu.topbar]]
+    weight = 6
+    name = "Bluesky"
+    url = "https://bsky.app/profile/composcleta.bsky.social"
+    pre = "<i class='fab fa-bluesky'></i>"
+
+[[menu.topbar]]
+    weight = 7
+    name = "Youtube"
+    url = "https://www.youtube.com/@asociacioncivicacomposclet924"
+    pre = "<i class='fab fa-youtube'></i>"
+
+[[menu.topbar]]
+    weight = 8
+    name = "Galego"
+    url = "/"
+    pre = "<img src='img/flags/galicia.png' alt='Gallego' style='height:15px;'>"
+
+[[menu.topbar]]
+    weight = 9
+    name = "Español"
+    url = "/es/"
+    pre = "<img src='img/flags/espana.png' alt='Español' style='height:15px;'>"
 
 
 # Enable and disable widgets for the right sidebar
