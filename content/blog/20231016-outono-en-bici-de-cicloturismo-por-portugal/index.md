@@ -27,6 +27,6 @@ Dispoñíamos con todo dunha "furgoneta escoba" por se houbese calquera contrate
 
 Ninguén precisou dunha bici especial para esta actividade, pero si que estivese en boas condicións mecánicas.
 
-Aquí tendes un bo recordo:
+Aquí tendes un bo recordo e o percorrido en gpx no seguinte enlace: [gpx](gpx/Ciclotouring-Vuelta-al-Valle-VIgo-Portugal.gpx)
 
-![Outono en bici](./outono-en-bici-2023.jpg)
+![Outono en bici](outono-en-bici-2023.jpg)
