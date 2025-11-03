@@ -39,6 +39,6 @@ Os principais defectos deste deseño ineficiente e perigoso son:
 
 ![Vista aérea previa](02.png)
 
-![bajada1](03.png)
+![bajada1](03.jpg)
 
-![bajada2](01.png)
+![bajada2](01.jpg)
