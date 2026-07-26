@@ -17,12 +17,13 @@ Te atenderemos lo antes que nos sea posible. Tiene en cuenta que no tenemos pers
 
 ## Quieres contarnos algo o participar de algún grupo de trabajo? Tienes alguna duda respecto a alguna actividad?
 
-Para esto puedes contactar en la dirección `eventos@composcleta.org`. También puedes hacerlo por nuestras redes sociáis.
+Para esto puedes contactar en la dirección `eventos@composcleta.org`. También puedes hacerlo por nuestras redes sociales:
 
 - [Intagram](https://www.instagram.com/composcleta/)
 - [Facebook](https://www.facebook.com/composcleta)
-- ['X'](https://twitter.com/composcleta)
-
-Tenemos un canal de difusión en [Telegram](https://t.me/composcleta/) donde anunciaremos actividades y las noticias principales, pero actualmente no está disponible esta plataforma para el contacto con nosotros.
+- [X](https://twitter.com/composcleta)
+- [Mastodon](https://mastodon.social/@composcleta)
+- [BlueSky](https://bsky.app/profile/composcleta.bsky.social)
+- [Telegram](https://t.me/composcleta/)
 
 También tenemos un grupo de Whatsapp exclusivo para socios. Si ya eres persona socia y quieres participar de él, escribe un email a `secretariado@composcleta.org`
