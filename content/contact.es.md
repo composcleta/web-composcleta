@@ -21,7 +21,7 @@ Para esto puedes contactar en la dirección `eventos@composcleta.org`. También 
 
 - [Intagram](https://www.instagram.com/composcleta/)
 - [Facebook](https://www.facebook.com/composcleta)
-- [X](https://twitter.com/composcleta)
+- [&#88;](https://twitter.com/composcleta)
 - [Mastodon](https://mastodon.social/@composcleta)
 - [BlueSky](https://bsky.app/profile/composcleta.bsky.social)
 - [Telegram](https://t.me/composcleta/)
