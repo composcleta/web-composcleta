@@ -3,12 +3,12 @@ title = "Pedalada por los campus: #BenVidaUSC y Semana Europea de la Movilidad"
 date = "2026-09-12T14:26:00+02:00"
 tags = ["mobilidade", "eventos", "pedaladas", "usc", "sostible"]
 categories = ["movilidad"]
-banner = "pedaladaUSC2026.jpg"
+banner = "/blog/20260912-pedaladausc/pedaladaUSC2026.jpg"
 authors = ["Composcleta"]
 years = ["2026"]
 +++
 
-{{< figure src="pedaladaUSC2026.jpg" alt="Cartel de la Pedalada por los campus #BenVidaUSC 2026" width="400px" >}}
+{{< figure src="/blog/20260912-pedaladausc/pedaladaUSC2026.jpg" alt="Cartel de la Pedalada por los campus #BenVidaUSC 2026" width="400px" >}}
 
 El 23 de septiembre a las 18:00 haremos una pedalada 🚲 por los campus como parte de las jornadas de #BenVidaUSC de la USC y en celebración de la Semana Europea de la Movilidad.
 
