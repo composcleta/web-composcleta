@@ -1,0 +1,28 @@
+{{ $img := "" }}
+{{ if .Params.banner }}
+  {{/* 1. If banner starts with http or / directly */}}
+  {{ if or (hasPrefix .Params.banner "http://") (hasPrefix .Params.banner "https://") (hasPrefix .Params.banner "/") }}
+    {{ $img = .Params.banner }}
+  {{ else }}
+    {{/* 2. Try page bundle of current page */}}
+    {{ $res := .Resources.GetMatch .Params.banner }}
+    {{ if $res }}
+      {{ $img = $res.RelPermalink }}
+    {{ else }}
+      {{/* 3. Look in translations (e.g. default language page bundle) */}}
+      {{ range .AllTranslations }}
+        {{ if not $img }}
+          {{ $transRes := .Resources.GetMatch $.Params.banner }}
+          {{ if $transRes }}
+            {{ $img = $transRes.RelPermalink }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{/* 4. Fallback to urls.JoinPath if not found in resources */}}
+    {{ if not $img }}
+      {{ $img = urls.JoinPath .Permalink .Params.banner }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $img }}

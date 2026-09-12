@@ -3,7 +3,7 @@ title = "Comienzan las Fiestas del Barrio de As Marías: Mini vuelta ciclista"
 date = "2026-09-02T12:00:00+02:00"
 tags = ["mobilidade", "eventos", "pedaladas", "festas", "barrio"]
 categories = ["movilidad"]
-banner = "/blog/20260902-asmarias/asmarias2026.jpg"
+banner = "asmarias2026.jpg"
 authors = ["Composcleta"]
 years = ["2026"]
 +++

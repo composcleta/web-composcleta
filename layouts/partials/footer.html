@@ -27,8 +27,9 @@
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
                         <a href="{{ .Permalink }}">
-                          {{ if isset .Params "banner" }}
-                            <img src="{{ urls.JoinPath .Permalink .Params.banner }}" class="img-responsive" alt="{{ .Title }}">
+                          {{ $bannerImg := partial "get_banner.html" . }}
+                          {{ if $bannerImg }}
+                            <img src="{{ $bannerImg }}" class="img-responsive" alt="{{ .Title }}">
                           {{ else }}
                             <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="{{ .Title }}">
                           {{ end }}

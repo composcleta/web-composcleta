@@ -63,7 +63,8 @@
 
 {{ if $has_image }}
 <!-- <meta property="debug-params-banner" content="{{ urls.JoinPath .Permalink .Params.banner }}"> -->
-{{ $path_del_banner := urls.JoinPath .Permalink .Params.banner }}
+{{ $bannerImg := partial "get_banner.html" . }}
+{{ $path_del_banner := $bannerImg | absURL }}
 
 <meta property="og:locale" content="{{ replace .Site.LanguageCode "-" "_" }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
@@ -95,7 +96,8 @@
 {{ with .Param "twitter_site" }}<meta name="twitter:site" content="@{{ . }}">{{ end }}
 <meta name="twitter:title" content="{{ $title_plain | truncate 70 }}">
 {{ if $has_image }}
-{{ $path_del_banner := urls.JoinPath .Permalink .Params.banner }}
+{{ $bannerImg := partial "get_banner.html" . }}
+{{ $path_del_banner := $bannerImg | absURL }}
 <meta name="twitter:image" content="{{ $path_del_banner }}">
 {{ end }}
 <meta name="twitter:description" content="{{ $description_plain | truncate 200 }}">

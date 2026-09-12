@@ -3,7 +3,7 @@ title = "Pedalada por los campus: #BenVidaUSC y Semana Europea de la Movilidad"
 date = "2026-09-12T14:26:00+02:00"
 tags = ["mobilidade", "eventos", "pedaladas", "usc", "sostible"]
 categories = ["movilidad"]
-banner = "/blog/20260912-pedaladausc/pedaladaUSC2026.jpg"
+banner = "pedaladaUSC2026.jpg"
 authors = ["Composcleta"]
 years = ["2026"]
 +++

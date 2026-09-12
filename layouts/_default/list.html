@@ -35,8 +35,9 @@
                                         <!-- <p>TRES: {{ urls.JoinPath .Permalink .Params.banner }}</p> -->
                                         <!-- <p>4: {{ .Permalink }}</p> -->
                                       <a href="{{ .Permalink }}">
-                                          {{ if .Params.banner }}
-                                          <img src="{{ urls.JoinPath .Permalink .Params.banner }}" class="img-responsive" alt="">
+                                          {{ $bannerImg := partial "get_banner.html" . }}
+                                          {{ if $bannerImg }}
+                                          <img src="{{ $bannerImg }}" class="img-responsive" alt="">
                                           {{ else }}
                                           <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
                                           {{ end }}
