@@ -18,6 +18,7 @@ years = ["2026"]
 * 🕚 **Hora de inicio:** 11:00 h
 * ⏱️ **Duración estimada:** 2,5 h
 * 📍 **Chegada estimada a Ames:** 12:00 h
+* ✍️ **Inscrición para alta no seguro de R.C. (só cubrir persoas NON socias)**: https://framaforms.org/sem-2026-paseo-circular-entre-santiago-e-o-milladoiro-1789465894
 
 ---
 
